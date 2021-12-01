@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tensorflow on Portfolio</title>
+    <link>https://example.com/tags/tensorflow/</link>
+    <description>Recent content in Tensorflow on Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Ken Wronka</copyright><atom:link href="https://example.com/tags/tensorflow/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: Poison Ivy Detector</title>
+      <link>https://example.com/projects/project-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/projects/project-1/</guid>
+      <description>Summary • Assembled dataset of around 10,000 images via web-scraping &amp;amp; API calls with metadata managed in Postgres database across steps
+• Filtered out bad images by devising and applying custom filter functions that capture undesired traits
+• Tuned a MobileNetV3 model to classify images using transfer learning &amp;amp; fine-tuning in Tensorflow
+• Exported model with TF Lite and adapted into a simple Android app to detect poison ivy in camera feed.</description>
+    </item>
+    
+  </channel>
+</rss>
