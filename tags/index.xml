@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Portfolio</title>
-    <link>https://example.com/tags/</link>
+    <link>https://kenwronka.github.io/data_science_portfolio/tags/</link>
     <description>Recent content in Tags on Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Ken Wronka</copyright><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Ken Wronka</copyright><atom:link href="https://kenwronka.github.io/data_science_portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Computer Vision</title>
-      <link>https://example.com/tags/computer-vision/</link>
+      <link>https://kenwronka.github.io/data_science_portfolio/tags/computer-vision/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/computer-vision/</guid>
+      <guid>https://kenwronka.github.io/data_science_portfolio/tags/computer-vision/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data Cleaning</title>
-      <link>https://example.com/tags/data-cleaning/</link>
+      <link>https://kenwronka.github.io/data_science_portfolio/tags/data-cleaning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/data-cleaning/</guid>
+      <guid>https://kenwronka.github.io/data_science_portfolio/tags/data-cleaning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep Learning</title>
-      <link>https://example.com/tags/deep-learning/</link>
+      <link>https://kenwronka.github.io/data_science_portfolio/tags/deep-learning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/deep-learning/</guid>
+      <guid>https://kenwronka.github.io/data_science_portfolio/tags/deep-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tensorflow</title>
-      <link>https://example.com/tags/tensorflow/</link>
+      <link>https://kenwronka.github.io/data_science_portfolio/tags/tensorflow/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/tensorflow/</guid>
+      <guid>https://kenwronka.github.io/data_science_portfolio/tags/tensorflow/</guid>
       <description></description>
     </item>
     

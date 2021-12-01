@@ -2,28 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/about/</loc>
+    <loc>https://kenwronka.github.io/data_science_portfolio/about/</loc>
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://kenwronka.github.io/data_science_portfolio/categories/</loc>
   </url><url>
-    <loc>https://example.com/tags/computer-vision/</loc>
+    <loc>https://kenwronka.github.io/data_science_portfolio/tags/computer-vision/</loc>
   </url><url>
-    <loc>https://example.com/tags/data-cleaning/</loc>
+    <loc>https://kenwronka.github.io/data_science_portfolio/tags/data-cleaning/</loc>
   </url><url>
-    <loc>https://example.com/</loc>
+    <loc>https://kenwronka.github.io/data_science_portfolio/</loc>
   </url><url>
-    <loc>https://example.com/tags/deep-learning/</loc>
+    <loc>https://kenwronka.github.io/data_science_portfolio/tags/deep-learning/</loc>
   </url><url>
-    <loc>https://example.com/projects/project-1/</loc>
+    <loc>https://kenwronka.github.io/data_science_portfolio/projects/project-1/</loc>
   </url><url>
-    <loc>https://example.com/projects/project-2/</loc>
+    <loc>https://kenwronka.github.io/data_science_portfolio/projects/project-2/</loc>
   </url><url>
-    <loc>https://example.com/projects/project-3/</loc>
+    <loc>https://kenwronka.github.io/data_science_portfolio/projects/project-3/</loc>
   </url><url>
-    <loc>https://example.com/projects/</loc>
+    <loc>https://kenwronka.github.io/data_science_portfolio/projects/</loc>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://kenwronka.github.io/data_science_portfolio/tags/</loc>
   </url><url>
-    <loc>https://example.com/tags/tensorflow/</loc>
+    <loc>https://kenwronka.github.io/data_science_portfolio/tags/tensorflow/</loc>
   </url>
 </urlset>
